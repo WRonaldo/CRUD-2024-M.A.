@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid #333;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+form {
+    margin-top: 20px;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="submit"] {
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #007bff;
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
+
+.edit-link,
+.delete-link {
+    color: #007bff;
+    cursor: pointer;
+}
+
+.edit-link:hover,
+.delete-link:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
