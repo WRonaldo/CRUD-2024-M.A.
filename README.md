@@ -1,1 +1,1 @@
-Apenas CRUD de teste utilizando PHP MyAQL
+Apenas CRUD de teste utilizando PHP MySQL
